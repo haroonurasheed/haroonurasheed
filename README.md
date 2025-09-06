@@ -18,5 +18,5 @@
 `PHP` | `Laravel` | `Symfony` | `Vue.js` | `Node.js` | `WordPress` | `Shopify` | `WooCommerce` | `MySQL` | `Docker` | `Git` | `API Integrations`  
 
 ### 🔹 Let’s Connect  
-📧 Email: haroonurasheed@email.com  
+📧 Email: haroonurasheed@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/haroonurasheed/  
